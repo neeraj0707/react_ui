@@ -344,7 +344,8 @@ const accordionItems = [
         Unlock endless possibilities with Flutter App Development. Build
         beautiful, high-performance applications for any platform – faster and
         easier than ever before. Ready to revolutionize your app experience?{" "}
-        <a href="#">Let’s get started today!</a>
+        
+
       </>
     ),
   },
